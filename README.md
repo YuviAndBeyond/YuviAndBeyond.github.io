@@ -1,2 +1,2 @@
-# YuviAndBeyond.github.io
+# yuvrajsharma.github.io
 Repo for website
