@@ -1,2 +1,2 @@
-# yuvrajsharma.github.io
+# Yuvraj Sharma
 Repo for website
