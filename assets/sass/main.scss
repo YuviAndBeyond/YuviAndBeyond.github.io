@@ -108,3 +108,47 @@
 			}
 		}
 	}
+
+/* Work */
+
+#w-one {
+	background: url("images/overlay.png"), url("../../images/work/rapid.jpg");
+	background-size: 256px 256px, cover;
+	background-attachment: fixed, fixed;
+	background-position: top left, center center;
+}
+
+#w-two {
+	background: url("images/overlay.png"), url("../../images/work/pn_approx.png");
+	background-size: 256px 256px, cover;
+	background-attachment: fixed, fixed;
+	background-position: top left, center center;
+}
+
+#w-three {
+	background: url("images/overlay.png"), url("../../images/work/exoplanet.jpg");
+	background-size: 256px 256px, cover;
+	background-attachment: fixed, fixed;
+	background-position: top left, center center;
+}
+
+#w-four {
+	background: url("images/overlay.png"), url("../../images/work/morph.jpg");
+	background-size: 256px 256px, cover;
+	background-attachment: fixed, fixed;
+	background-position: top left, center center;
+}
+
+#w-five {
+	background: url("images/overlay.png"), url("../../images/work/seird.png");
+	background-size: 256px 256px, cover;
+	background-attachment: fixed, fixed;
+	background-position: top left, center center;
+}
+
+#w-six {
+	background: url("images/overlay.png"), url("../../images/work/boltzman.jpg");
+	background-size: 256px 256px, cover;
+	background-attachment: fixed, fixed;
+	background-position: top left, center center;
+}
